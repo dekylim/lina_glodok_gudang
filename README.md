@@ -19,6 +19,7 @@ List final quantity of all products
 
 Technology:
 
+
 Bootstrap:
   
   Use class container for layout
@@ -27,15 +28,16 @@ Bootstrap:
   
   Use class dropdown to create dropdown menu
 
+
 SASS using Compass 
   
-  INPUT
+  input
   
   _variable.scss contains all variable 
   
   style.scss , use import _variable.scss. style body using the variable from _variable scss
   
-  OUTPUT
+  output
   
   style.css , the result of compiler compass : 'compass compile /project/'
 
