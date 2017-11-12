@@ -3,19 +3,19 @@ Small warehouse application, it is used to monitor the items out and in.
 
 Menu:
 1. Input Nama Barang
-Entry New Item / Product
+ : Entry New Item / Product
 
 2. Input Stok Masuk
-Entry Quantity of incoming Product / item
+ : Entry Quantity of incoming Product / item
 
 3. Input Stok Keluar
-Entry Quantity of outcoming Product / item
+ : Entry Quantity of outcoming Product / item
 
 4. Kartu Stok
-Display history in or out of product
+ : Display history in or out of product
 
 5. Daftar Sisa Stok
-List final quantity of all products
+ : List final quantity of all products
 
 Technology:
 
